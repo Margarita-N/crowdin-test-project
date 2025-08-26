@@ -1,6 +1,7 @@
 {
     "homepage": {
         "title": "Casa",
-        "description": "Página inicial"
+        "description": "Página inicial",
+        "button": "Ir para cerca"
     }
 }
