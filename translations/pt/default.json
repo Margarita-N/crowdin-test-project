@@ -1,6 +1,7 @@
 {
     "homepage": {
-        "title": "Case Brasil",
-        "description": "Inicial"
+        "title": "Home",
+        "description": "Home page",
+        "button": "Go to about"
     }
 }
