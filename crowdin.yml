@@ -1,0 +1,5 @@
+files:
+  - source: new.json
+    translation: /translations/%locale%/default.%file_extension%
+  - source: new.json
+    translation: /translations/%two_letters_code%/default.%file_extension%
